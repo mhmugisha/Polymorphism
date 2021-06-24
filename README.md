@@ -1,2 +1,0 @@
-# Polymorphism
-Example on Polymorphism
